@@ -68,49 +68,49 @@ body {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.02em;
 }
 .url {
   color: #2e2f42;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.02em;
 }
 
 .text {
   color: #434455;
   line-height: 1.5;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.02em;
 }
 .title {
   color: #2e2f42;
   font-weight: 700;
   line-height: 1.1;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.02em;
 }
 .under {
   line-height: 1.5;
   color: #f4f4fd;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.02em;
 }
-.address{
+.address {
   font-style: normal;
 }
-.url:focus{
- color:#404bbf; 
-}
-.url:hover{
+.url:focus {
   color: #404bbf;
 }
-.gmail:focus{
+.url:hover {
   color: #404bbf;
 }
-.gmail:hover{
-  color: #404bbf; 
-}
-.bluebutton:focus{
+.gmail:focus {
   color: #404bbf;
 }
-.bluebutton:hover{
+.gmail:hover {
+  color: #404bbf;
+}
+.bluebutton:focus {
+  color: #404bbf;
+}
+.bluebutton:hover {
   color: #404bbf;
 }
