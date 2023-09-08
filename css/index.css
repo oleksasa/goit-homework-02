@@ -1,0 +1,85 @@
+body {
+  background-color: #ffffff;
+  font-family: Roboto;
+  font-weight: 400;
+}
+.link {
+  text-decoration: none;
+}
+
+.generalsection {
+  background-color: #2e2f42;
+}
+.generaltitle {
+  color: #ffffff;
+  font-weight: 700;
+  line-height: 1.07;
+}
+.bluebutton {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  cursor: pointer;
+  line-height: 1.5;
+  font-weight: 500;
+}
+.bullshit {
+  position: absolute;
+  left: -9999px;
+  top: -9999px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px 1px);
+  white-space: nowrap;
+}
+.ourteam {
+  background-color: #f4f4fd;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.logo {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.logos {
+  color: #2e2f42;
+  font-family: Raleway;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.logoss {
+  color: #f4f4fd;
+  font-family: Raleway;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.contacts {
+  color: #434455;
+}
+.item-title {
+  color: #2e2f42;
+
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.url {
+  color: #2e2f42;
+  font-weight: 500;
+  line-height: 1.5;
+}
+.text {
+  color: #434455;
+  line-height: 1.5;
+}
+.title {
+  color: #2e2f42;
+  font-weight: 700;
+  line-height: 1.1;
+}
+.under {
+  line-height: 1.5;
+  color: #f4f4fd;
+}
